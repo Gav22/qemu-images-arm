@@ -32,6 +32,6 @@ Finally I would like to recommend a course where I learn the arm assembly as wel
 
 I have uploaded the image files to my google drive, you could find them below.
 
-[32bit]()
+[32bit](https://drive.google.com/open?id=1A320pZ0Z8QZ8aB9ZYX5wkrY2gFL6fqKi)
 
 [64bit]()
