@@ -34,4 +34,4 @@ I have uploaded the image files to my google drive, you could find them below.
 
 [32bit](https://drive.google.com/open?id=1A320pZ0Z8QZ8aB9ZYX5wkrY2gFL6fqKi)
 
-[64bit]()
+[64bit](https://drive.google.com/open?id=1FqM_1B0xojTdTT1SeMsa52TMP9bQH_Qp)
