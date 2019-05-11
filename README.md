@@ -19,8 +19,8 @@ Incase you guys want to make some changes to the already-built images, [guestfis
 
 E.g.
 
-- You wanna reset your pwd? You could do it like this. ![Change the root password](https://github.com/k0Iry/qemu-images-arm/blob/master/2019-05-11 07.53.53.jpg)
-- To resize the whole disk size? No problem. ![](https://github.com/k0Iry/qemu-images-arm/blob/master/2019-05-11 07.54.18.jpg)
+- You wanna reset your pwd? You could do it like this. ![Change the root password](https://github.com/k0Iry/qemu-images-arm/blob/master/2019-05-11%2007.53.53.jpg)
+- To resize the whole disk size? No problem. ![](https://github.com/k0Iry/qemu-images-arm/blob/master/2019-05-11%2007.54.18.jpg)
 
 
 
