@@ -15,7 +15,7 @@
 
 ### Some other tips
 
-Incase you guys want to make some changes to the already-built images, [guestfish]([http://libguestfs.org/guestfish.1.html](http://libguestfs.org/guestfish.1.html)) is a damn great tool to do so.
+In case you guys want to make some changes to the already-built images, [guestfish]([http://libguestfs.org/guestfish.1.html](http://libguestfs.org/guestfish.1.html)) is a damn great tool to do so.
 
 E.g.
 
